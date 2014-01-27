@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TypelistTest", "..\test\TypelistTest\TypelistTest.vcxproj", "{299D7860-ACC6-45C1-854E-723F640C97B4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SingletonTest", "..\test\SingletonTest\SingletonTest.vcxproj", "{D8E2CC97-2660-4D21-ABDE-1B052BE0F110}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{299D7860-ACC6-45C1-854E-723F640C97B4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{299D7860-ACC6-45C1-854E-723F640C97B4}.Debug|Win32.Build.0 = Debug|Win32
+		{299D7860-ACC6-45C1-854E-723F640C97B4}.Release|Win32.ActiveCfg = Release|Win32
+		{299D7860-ACC6-45C1-854E-723F640C97B4}.Release|Win32.Build.0 = Release|Win32
+		{D8E2CC97-2660-4D21-ABDE-1B052BE0F110}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D8E2CC97-2660-4D21-ABDE-1B052BE0F110}.Debug|Win32.Build.0 = Debug|Win32
+		{D8E2CC97-2660-4D21-ABDE-1B052BE0F110}.Release|Win32.ActiveCfg = Release|Win32
+		{D8E2CC97-2660-4D21-ABDE-1B052BE0F110}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
